@@ -1,0 +1,22 @@
+{
+  "wheel_id": 564,
+  "structure": "umbrella",
+  "slug": "ext-t1-20260809-103",
+  "project": "truck-finance-options-australia-quotes-explained-6c4ac285adf44d",
+  "parent_t1_ref": "ext-t1-20260809-151",
+  "node_role": "feeder",
+  "money_target": "loanphone.com.au",
+  "primary_kw": "truck finance options Australia quotes explained",
+  "intended_url": "https://aumedia.neocities.org/truck-finance-options-australia-quotes-explained-6c4ac285adf44d/",
+  "tier": "T2",
+  "writeback_nonce": "f43a7d735ec77486",
+  "links": [
+    {
+      "target_url": "http://truck-finance-options-australia-before-you-start-40a1313cfeecb1.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Truck Finance Options Australia Before You Start: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
